@@ -1,0 +1,31 @@
+{
+  "name": "lunch",
+  "author": {
+    "email": "mixco.location@gmail.com"
+  },
+  "version": "0.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "private": true,
+  "dependencies": {
+    "bcrypt": "^3.0.4",
+    "body-parser": "^1.17.2",
+    "core-js": "^2.6.5",
+    "cors": "^2.8.3",
+    "ejs": "^2.5.6",
+    "express": "^4.15.3",
+    "googleapis": "^19.0.0",
+    "jsonwebtoken": "^7.3.0",
+    "mongoose": "^4.9.1",
+    "morgan": "^1.8.1",
+    "passport": "^0.3.2",
+    "passport-google-oauth": "^1.0.0",
+    "passport-jwt": "^2.2.1",
+    "passport-local": "^1.0.0"
+  },
+  "devDependencies": {
+    "webpack": "^4.29.4"
+  }
+}
