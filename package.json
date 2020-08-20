@@ -10,7 +10,7 @@
   },
   "private": true,
   "dependencies": {
-    "bcrypt": "^3.0.4",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.17.2",
     "core-js": "^2.6.5",
     "cors": "^2.8.3",
