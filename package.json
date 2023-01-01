@@ -26,6 +26,6 @@
     "passport-local": "^1.0.0"
   },
   "devDependencies": {
-    "webpack": "^4.29.4"
+    "webpack": "^5.75.0"
   }
 }
